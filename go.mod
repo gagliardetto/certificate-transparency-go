@@ -22,7 +22,7 @@ require (
 	go.etcd.io/etcd/v3 v3.5.5
 	golang.org/x/crypto v0.0.0-20220411220226-7b82a4e95df4
 	golang.org/x/net v0.0.0-20220722155237-a158d28d115b
-	golang.org/x/time v0.0.0-20220411224347-583f2d630306
+	golang.org/x/time v0.3.0
 	google.golang.org/grpc v1.48.0
 	google.golang.org/protobuf v1.28.1
 	gopkg.in/yaml.v3 v3.0.1
